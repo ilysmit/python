@@ -5,7 +5,7 @@
 # marks.insert(0 ,99)
 # print(marks)
 
-studant=["radha","kishan","gori","ram","shyam"]
+studant=["radha","kishan","gori","ram","shyam",]
 
 for i in studant:
     if i=="ram":
